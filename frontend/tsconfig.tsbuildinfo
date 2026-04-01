@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/api/http.ts","./src/api/services/systemservice.ts","./src/config/env.ts","./src/pages/homepage.ts","./src/types/api.ts"],"errors":true,"version":"5.9.3"}

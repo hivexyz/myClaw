@@ -1,0 +1,28 @@
+:root {
+  font-family: Inter, system-ui, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f7f7f8;
+  color: #1f2937;
+}
+
+.container {
+  max-width: 680px;
+  margin: 80px auto;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+button {
+  margin-top: 12px;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  background: #2563eb;
+  color: #fff;
+  cursor: pointer;
+}
